@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8238360934",
+    "project_id": "moviles2-firebase-bf793",
+    "storage_bucket": "moviles2-firebase-bf793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8238360934:android:2958968cfa4a10304100a7",
+        "android_client_info": {
+          "package_name": "com.moviles2.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8238360934-qhmgrt69l4a5gpn14c11es7m8m1rsaoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSS5dVS03HYxR0_zGXvf3DaBP2FWJJJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8238360934-qhmgrt69l4a5gpn14c11es7m8m1rsaoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
